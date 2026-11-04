@@ -16,7 +16,7 @@ This port is based on Forge Config Screens by Fuzs (https://github.com/Fuzss/for
 
 The original upstream logo, banner, GUI textures, and language asset were not reused. Replacement art was made for this port and is licensed under CC0-1.0.
 
-The Modrinth project page icon is adapted from Lucide's `sliders-horizontal` icon under the ISC License. See [ICON-LICENSE.md](ICON-LICENSE.md). This page icon is separate from the in-game icon bundled in the mod JAR.
+The Modrinth project page icon is adapted from Lucide's `sliders-horizontal` icon under the ISC License. The 512×512 PNG and SVG source are `modrinth-icon.png` and `modrinth-icon.svg`; see [ICON-LICENSE.md](ICON-LICENSE.md). This page icon is separate from the in-game icon bundled in the mod JAR.
 
 ## AI disclosure
 
