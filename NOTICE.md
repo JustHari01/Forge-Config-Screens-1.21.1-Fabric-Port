@@ -6,3 +6,5 @@ https://github.com/Fuzss/forgeconfigscreens
 The upstream project is licensed under the Mozilla Public License 2.0 (MPL-2.0). Included Java source preserves upstream copyright notices where present. Port changes and added source are provided under MPL-2.0; see LICENSE.md.
 
 No upstream artwork, logo, banner, GUI textures, or language resource was copied into this port. The icon and GUI textures here were made for this port and are released under CC0-1.0.
+
+The separate Modrinth project page icon is adapted from Lucide's `sliders-horizontal` icon under the ISC License. See `ICON-LICENSE.md`.
