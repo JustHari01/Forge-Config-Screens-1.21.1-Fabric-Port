@@ -1,6 +1,6 @@
 # Project icon license
 
-`modrinth-icon.svg` and its 512×512 raster export, `modrinth-icon.png`, are adapted from Lucide's `sliders-horizontal` icon:
+`modrinth-icon.svg` and its 512×512 raster export, `modrinth-icon.png`, are adapted from Lucide's `sliders-horizontal` icon. The same PNG is used as the project-page icon and the bundled in-game icon at `src/main/resources/mod_logo.png`:
 https://github.com/lucide-icons/lucide/blob/main/icons/sliders-horizontal.svg
 
 Lucide is distributed under the ISC License. The icon is used and adapted under that license.

@@ -14,10 +14,10 @@ Unofficial Fabric port of Forge Config Screens for Minecraft 1.21.1. It provides
 
 This port is based on Forge Config Screens by Fuzs (https://github.com/Fuzss/forgeconfigscreens), licensed under MPL-2.0. See LICENSE.md and NOTICE.md. This is an independent community port and is not affiliated with or endorsed by the original author.
 
-The original upstream logo, banner, GUI textures, and language asset were not reused. Replacement art was made for this port and is licensed under CC0-1.0.
+The original upstream logo, banner, GUI textures, and language asset were not reused. Replacement GUI textures were made for this port and are licensed under CC0-1.0.
 
-The Modrinth project page icon is adapted from Lucide's `sliders-horizontal` icon under the ISC License. The 512×512 PNG and SVG source are `modrinth-icon.png` and `modrinth-icon.svg`; see [ICON-LICENSE.md](ICON-LICENSE.md). This page icon is separate from the in-game icon bundled in the mod JAR.
+The project-page icon and the in-game icon bundled in the mod JAR use the same 512×512 artwork adapted from Lucide's `sliders-horizontal` icon under the ISC License. The PNG and SVG source are `modrinth-icon.png` and `modrinth-icon.svg`; see [ICON-LICENSE.md](ICON-LICENSE.md). The previous AI-generated in-game icon has been removed.
 
 ## AI disclosure
 
-AI tools assisted with the porting work and generated the in-game mod icon bundled in the release.
+AI tools assisted with the compatibility port and project documentation. The current in-game icon is the Lucide-derived asset described above; it was not generated with AI.

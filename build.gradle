@@ -35,4 +35,4 @@ java {
     targetCompatibility = JavaVersion.VERSION_21
     withSourcesJar()
 }
-jar { from("LICENSE.md"); from("NOTICE.md") }
+jar { from("LICENSE.md"); from("NOTICE.md"); from("ICON-LICENSE.md") }
